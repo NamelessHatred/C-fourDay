@@ -1,0 +1,14 @@
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\bin\Debug\net8.0\DaydenvFour.exe
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\bin\Debug\net8.0\DaydenvFour.deps.json
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\bin\Debug\net8.0\DaydenvFour.runtimeconfig.json
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\bin\Debug\net8.0\DaydenvFour.dll
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\bin\Debug\net8.0\DaydenvFour.pdb
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\obj\Debug\net8.0\DaydenvFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\obj\Debug\net8.0\DaydenvFour.AssemblyInfoInputs.cache
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\obj\Debug\net8.0\DaydenvFour.AssemblyInfo.cs
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\obj\Debug\net8.0\DaydenvFour.csproj.CoreCompileInputs.cache
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\obj\Debug\net8.0\DaydenvFour.dll
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\obj\Debug\net8.0\refint\DaydenvFour.dll
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\obj\Debug\net8.0\DaydenvFour.pdb
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\obj\Debug\net8.0\DaydenvFour.genruntimeconfig.cache
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\DaydenvFour\DaydenvFour\obj\Debug\net8.0\ref\DaydenvFour.dll
